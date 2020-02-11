@@ -1,0 +1,15 @@
+.canvas {
+    width: 600px;
+    height: 600px;
+    background-color: lightcoral;
+    border : 2px solid lightcoral;
+  }
+
+  /* .sidePanel {
+      height: 400px;
+      width: 50px;
+      /* margin: 40px; */
+      /* background-color: lightpink;
+      border: 2px solid slateblue
+
+  } */ 
